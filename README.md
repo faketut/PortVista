@@ -1,6 +1,7 @@
 # PortVista: Advanced Portfolio Risk Analytics
 
 PortVista is a powerful portfolio risk simulator that enables investors and analysts to assess risk characteristics, calculate risk indicators, and generate visual reports through Monte Carlo simulations and statistical analysis.
+![image](https://github.com/user-attachments/assets/9b397796-db3e-49b9-abdb-4ff40aa7dccd)
 
 ---
 
